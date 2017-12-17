@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server ./src/main/ -a 127.0.0.1",
+    "test" : "mocha ./src/test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://34.210.102.163/ahammedkm/assessment.git"
+  },
+  "devDependencies": {
+  "request": "^2.83.0",
+	"express": "^4.15.2",
+	"chai": "^3.5.0",
+	"mocha": "^4.0.1"
+  },
+  "author": "Ahammed K M",
+  "license": "ISC"
+}
