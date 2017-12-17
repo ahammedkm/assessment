@@ -12,5 +12,5 @@ Project containing the build-file, the code and tests.
 
 # Please use the below credentials for login
 
-Username :admin
-Password:admin
+* Username :admin
+* Password:admin
